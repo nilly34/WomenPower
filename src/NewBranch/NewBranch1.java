@@ -5,7 +5,7 @@ public class NewBranch1 {
         String word="Wooden spoon";
         System.out.println(word);
         
-        int new=123;
-        System.out.println(new);
+        int newX=123;
+        System.out.println(newX);
     }
 }
